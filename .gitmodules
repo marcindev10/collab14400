@@ -1,0 +1,3 @@
+[submodule "collabsubmodule"]
+	path = collabsubmodule
+	url = https://github.com/marcindev10/collabsubmodule.git
