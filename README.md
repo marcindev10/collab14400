@@ -6,4 +6,4 @@ renamed submodule filepath but not update it
 
 creating a new changes
 Changes directly  to main 
-commits directly to main
+new commits conflict
